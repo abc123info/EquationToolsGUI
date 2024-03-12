@@ -17,6 +17,8 @@
 
 2017.11.20 完成永恒之蓝Eternalblue的编写。
 
+![b111](https://github.com/abc123info/EquationToolsGUI/assets/143333826/1f9b8306-d5f9-4ed8-843d-1c509250a65e)
+
 ![c111](https://github.com/abc123info/EquationToolsGUI/assets/143333826/e2405f64-4656-4709-8d8e-78ed74b51e34)
 
 
