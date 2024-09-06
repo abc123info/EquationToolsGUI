@@ -1,6 +1,6 @@
 # EquationToolsGUI
 
-ABC_123也录制了关于方程式工具包图形界面版的系列使用教程，欢迎关注我的B站号（希水涵一讲堂）：
+**ABC_123也录制了关于方程式工具包图形界面版的系列使用教程，欢迎关注我的B站号（希水涵一讲堂）：**
 
 https://www.bilibili.com/video/BV1vopueKEp4/
 
