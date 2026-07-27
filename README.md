@@ -43,6 +43,10 @@ https://www.bilibili.com/video/BV1vopueKEp4/
 
 2017.11.20 完成永恒之蓝Eternalblue的编写。
 
+<img width="1519" height="1111" alt="image-20260727085232001" src="https://github.com/user-attachments/assets/e8a7d7ab-9590-4758-8240-bc6a10fb852b" />
+
+<img width="1519" height="1111" alt="image-20260727085952072" src="https://github.com/user-attachments/assets/810b7e0a-cd70-40ee-8430-67f682642a21" />
+
 ![b111](https://github.com/abc123info/EquationToolsGUI/assets/143333826/1f9b8306-d5f9-4ed8-843d-1c509250a65e)
 
 ![c111](https://github.com/abc123info/EquationToolsGUI/assets/143333826/e2405f64-4656-4709-8d8e-78ed74b51e34)
